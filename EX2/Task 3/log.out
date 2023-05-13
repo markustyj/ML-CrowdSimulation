@@ -1,0 +1,1411 @@
+14:57:34,313   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+14:57:34,317   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+14:57:34,768   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+14:57:34,769   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+14:57:35,684   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+14:57:36,093   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+14:57:36,109   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+14:57:36,121   INFO ScenarioRun:128 - scenario context initialized.
+14:57:36,125   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+14:57:36,126   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+14:57:36,604   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+14:57:36,633   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+14:57:36,976   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+14:57:37,113   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+14:57:37,211   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+14:57:37,365   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+14:57:37,454   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+14:57:37,486   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+14:57:37,521   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+14:57:37,559   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+14:57:37,587   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+14:57:37,668   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1059[ms]
+14:57:37,674   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+14:57:38,027   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:255[ms]
+14:57:38,031   INFO Simulation:277 - preLoop finished.
+14:57:41,213   INFO OutputFile:109 - Absolute file nameoutput/corner_scenario_40x40_2023-05-05_14-57-36.107/postvis.traj
+14:57:41,296   INFO OutputFile:109 - Absolute file nameoutput/corner_scenario_40x40_2023-05-05_14-57-36.107/overlaps.csv
+14:57:41,299   INFO OutputFile:109 - Absolute file nameoutput/corner_scenario_40x40_2023-05-05_14-57-36.107/overlapCount.txt
+14:57:41,301   INFO Simulation:251 - Finished writing all output files
+14:57:41,302   INFO Simulation:254 - Post-loop: before waitForTraci
+14:57:41,302   INFO Simulation:261 - Post-loop: finished.
+14:57:41,303   INFO ScenarioRun:207 - Simulation run finished.
+14:57:41,304   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+21:22:40,890   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:22:40,895   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:22:41,372   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+21:22:41,372   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+21:22:42,520   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+21:22:42,998   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+21:22:43,016   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+21:22:43,027   INFO ScenarioRun:128 - scenario context initialized.
+21:22:43,032   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+21:22:43,032   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+21:22:43,524   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+21:22:43,549   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+21:22:43,779   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+21:22:43,859   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+21:22:43,933   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+21:22:44,100   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+21:22:44,248   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+21:22:44,294   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+21:22:44,339   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+21:22:44,372   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+21:22:44,406   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+21:22:44,434   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:907[ms]
+21:22:44,441   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+21:22:44,675   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:181[ms]
+21:22:44,676   INFO Simulation:277 - preLoop finished.
+21:22:47,819   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-06_21-22-43.15/postvis.traj
+21:22:47,929   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-06_21-22-43.15/overlaps.csv
+21:22:47,931   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-06_21-22-43.15/overlapCount.txt
+21:22:47,932   INFO Simulation:251 - Finished writing all output files
+21:22:47,932   INFO Simulation:254 - Post-loop: before waitForTraci
+21:22:47,933   INFO Simulation:261 - Post-loop: finished.
+21:22:47,934   INFO ScenarioRun:207 - Simulation run finished.
+21:22:47,934   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+21:26:08,307   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:26:08,309   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:26:08,310  ERROR ScenarioRunSubCommand:60 - scenario-file does not exist, is not a regular file or you do not have read permissions: /Users/diyun/Desktop/vadere/Add_Ped_corner_scenario_40x40.scenario
+21:27:07,838   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:27:07,840   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:27:07,841  ERROR ScenarioRunSubCommand:60 - scenario-file does not exist, is not a regular file or you do not have read permissions: /Users/diyun/Desktop/vadere/Add_Ped_corner_scenario_40x40.scenario
+21:30:33,654   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:30:33,660   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:30:34,141   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+21:30:34,142   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+21:30:34,909   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+21:30:35,297   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+21:30:35,316   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+21:30:35,328   INFO ScenarioRun:128 - scenario context initialized.
+21:30:35,333   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+21:30:35,334   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+21:30:35,813   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+21:30:35,850   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+21:30:36,093   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+21:30:36,202   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+21:30:36,293   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+21:30:36,483   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+21:30:36,563   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+21:30:36,594   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+21:30:36,629   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+21:30:36,665   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+21:30:36,689   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+21:30:36,769   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:952[ms]
+21:30:36,775   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+21:30:37,013   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:157[ms]
+21:30:37,014   INFO Simulation:277 - preLoop finished.
+21:30:40,162   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-06_21-30-35.315/postvis.traj
+21:30:40,272   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-06_21-30-35.315/overlaps.csv
+21:30:40,272   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-06_21-30-35.315/overlapCount.txt
+21:30:40,274   INFO Simulation:251 - Finished writing all output files
+21:30:40,274   INFO Simulation:254 - Post-loop: before waitForTraci
+21:30:40,274   INFO Simulation:261 - Post-loop: finished.
+21:30:40,275   INFO ScenarioRun:207 - Simulation run finished.
+21:30:40,275   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+21:30:58,644   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:30:58,648   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:30:58,649  ERROR ScenarioRunSubCommand:60 - scenario-file does not exist, is not a regular file or you do not have read permissions: /Users/diyun/Desktop/vadere/Add_Ped_corner_scenario_40x40.scenario
+21:33:01,282   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:33:01,287   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:33:01,755   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <Add_Ped_corner_scenario_40x40.scenario>
+21:33:01,756   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+21:33:02,646   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+21:33:03,014   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+21:33:03,033   INFO ScenarioRun:147 - Initializing scenario: Add_Ped_corner_scenario_40x40.scenario...
+21:33:03,048   INFO ScenarioRun:128 - scenario context initialized.
+21:33:03,052   INFO ScenarioRun:229 - no mesh Add_Ped_corner_scenario_40x40.scenario.poly was found.
+21:33:03,053   INFO ScenarioRun:229 - no mesh Add_Ped_corner_scenario_40x40.scenario_background.poly was found.
+21:33:03,540   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+21:33:03,572   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+21:33:03,786   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+21:33:03,866   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+21:33:03,947   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+21:33:04,092   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+21:33:04,163   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+21:33:04,210   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+21:33:04,265   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+21:33:04,323   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+21:33:04,360   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+21:33:04,456   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:910[ms]
+21:33:04,463   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+21:33:04,709   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:189[ms]
+21:33:04,710   INFO Simulation:277 - preLoop finished.
+21:33:07,874   INFO OutputFile:109 - Absolute file nameoutput/Add_Ped_corner_scenario_40x40.scenario_2023-05-06_21-33-03.32/postvis.traj
+21:33:07,943   INFO OutputFile:109 - Absolute file nameoutput/Add_Ped_corner_scenario_40x40.scenario_2023-05-06_21-33-03.32/overlaps.csv
+21:33:07,945   INFO OutputFile:109 - Absolute file nameoutput/Add_Ped_corner_scenario_40x40.scenario_2023-05-06_21-33-03.32/overlapCount.txt
+21:33:07,946   INFO Simulation:251 - Finished writing all output files
+21:33:07,947   INFO Simulation:254 - Post-loop: before waitForTraci
+21:33:07,948   INFO Simulation:261 - Post-loop: finished.
+21:33:07,948   INFO ScenarioRun:207 - Simulation run finished.
+21:33:07,949   INFO ScenarioRun:265 - Simulation of scenario Add_Ped_corner_scenario_40x40.scenario finished.
+21:34:08,707   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:34:08,710   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:34:08,711  ERROR ScenarioRunSubCommand:60 - scenario-file does not exist, is not a regular file or you do not have read permissions: /Users/diyun/Desktop/vadere/Add_Ped_corner_scenario_40x40.scenario
+21:34:57,876   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:34:57,878   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:34:58,017   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <Add_Ped_corner_scenario_40x40>
+21:34:58,017   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+21:34:58,549   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+21:34:58,687   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+21:34:58,698   INFO ScenarioRun:147 - Initializing scenario: Add_Ped_corner_scenario_40x40...
+21:34:58,704   INFO ScenarioRun:128 - scenario context initialized.
+21:34:58,706   INFO ScenarioRun:229 - no mesh Add_Ped_corner_scenario_40x40.poly was found.
+21:34:58,707   INFO ScenarioRun:229 - no mesh Add_Ped_corner_scenario_40x40_background.poly was found.
+21:34:58,926   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+21:34:58,951   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+21:34:59,194   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+21:34:59,299   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+21:34:59,471   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+21:34:59,561   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+21:34:59,599   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+21:34:59,638   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+21:34:59,685   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+21:34:59,734   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+21:34:59,856   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+21:35:00,079   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1148[ms]
+21:35:00,084   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+21:35:00,286   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:138[ms]
+21:35:00,287   INFO Simulation:277 - preLoop finished.
+21:35:03,685   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/Add_Ped_corner_scenario_40x40_2023-05-06_21-34-58.697/postvis.traj
+21:35:03,771   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/Add_Ped_corner_scenario_40x40_2023-05-06_21-34-58.697/overlaps.csv
+21:35:03,772   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/Add_Ped_corner_scenario_40x40_2023-05-06_21-34-58.697/overlapCount.txt
+21:35:03,774   INFO Simulation:251 - Finished writing all output files
+21:35:03,774   INFO Simulation:254 - Post-loop: before waitForTraci
+21:35:03,775   INFO Simulation:261 - Post-loop: finished.
+21:35:03,776   INFO ScenarioRun:207 - Simulation run finished.
+21:35:03,776   INFO ScenarioRun:265 - Simulation of scenario Add_Ped_corner_scenario_40x40 finished.
+21:43:33,228   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:43:33,233   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:43:33,234  ERROR ScenarioRunSubCommand:60 - scenario-file does not exist, is not a regular file or you do not have read permissions: /Users/diyun/Desktop/vadere/Add_Ped_corner_scenario_40x40.scenario
+21:44:14,642   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+21:44:14,645   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+21:44:15,136   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <Add_Ped_corner_scenario_40x40>
+21:44:15,137   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+21:44:15,989   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+21:44:16,365   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+21:44:16,384   INFO ScenarioRun:147 - Initializing scenario: Add_Ped_corner_scenario_40x40...
+21:44:16,399   INFO ScenarioRun:128 - scenario context initialized.
+21:44:16,404   INFO ScenarioRun:229 - no mesh Add_Ped_corner_scenario_40x40.poly was found.
+21:44:16,404   INFO ScenarioRun:229 - no mesh Add_Ped_corner_scenario_40x40_background.poly was found.
+21:44:16,905   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+21:44:16,936   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+21:44:17,117   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+21:44:17,172   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+21:44:17,301   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+21:44:17,407   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+21:44:17,441   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+21:44:17,475   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+21:44:17,510   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+21:44:17,547   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+21:44:17,624   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+21:44:17,769   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:858[ms]
+21:44:17,775   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+21:44:18,035   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:194[ms]
+21:44:18,036   INFO Simulation:277 - preLoop finished.
+21:44:21,171   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/Add_Ped_corner_scenario_40x40_2023-05-06_21-44-16.383/postvis.traj
+21:44:21,258   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/Add_Ped_corner_scenario_40x40_2023-05-06_21-44-16.383/overlaps.csv
+21:44:21,260   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/Add_Ped_corner_scenario_40x40_2023-05-06_21-44-16.383/overlapCount.txt
+21:44:21,263   INFO Simulation:251 - Finished writing all output files
+21:44:21,265   INFO Simulation:254 - Post-loop: before waitForTraci
+21:44:21,265   INFO Simulation:261 - Post-loop: finished.
+21:44:21,266   INFO ScenarioRun:207 - Simulation run finished.
+21:44:21,266   INFO ScenarioRun:265 - Simulation of scenario Add_Ped_corner_scenario_40x40 finished.
+10:06:31,312   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+10:06:31,317   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+10:06:31,792   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+10:06:31,792   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+10:06:32,808   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+10:06:33,222   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+10:06:33,240   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+10:06:33,251   INFO ScenarioRun:128 - scenario context initialized.
+10:06:33,255   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+10:06:33,256   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+10:06:33,725   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+10:06:33,763   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+10:06:34,024   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+10:06:34,110   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+10:06:34,177   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+10:06:34,270   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+10:06:34,316   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+10:06:34,345   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+10:06:34,378   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+10:06:34,415   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+10:06:34,440   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+10:06:34,521   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:792[ms]
+10:06:34,528   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+10:06:34,747   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:147[ms]
+10:06:34,748   INFO Simulation:277 - preLoop finished.
+10:06:37,830   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-06-33.239/postvis.traj
+10:06:37,922   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-06-33.239/overlaps.csv
+10:06:37,923   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-06-33.239/overlapCount.txt
+10:06:37,924   INFO Simulation:251 - Finished writing all output files
+10:06:37,924   INFO Simulation:254 - Post-loop: before waitForTraci
+10:06:37,925   INFO Simulation:261 - Post-loop: finished.
+10:06:37,925   INFO ScenarioRun:207 - Simulation run finished.
+10:06:37,925   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+10:37:24,385   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+10:37:24,391   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+10:37:24,881   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+10:37:24,881   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+10:37:25,722   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+10:37:26,092   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+10:37:26,114   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+10:37:26,125   INFO ScenarioRun:128 - scenario context initialized.
+10:37:26,129   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+10:37:26,129   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+10:37:26,626   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+10:37:26,657   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+10:37:26,860   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+10:37:26,934   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+10:37:27,015   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+10:37:27,374   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+10:37:27,441   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+10:37:27,475   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+10:37:27,510   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+10:37:27,547   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+10:37:27,573   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+10:37:27,612   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:983[ms]
+10:37:27,619   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+10:37:27,818   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:145[ms]
+10:37:27,819   INFO Simulation:277 - preLoop finished.
+10:37:30,996   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-37-26.113/postvis.traj
+10:37:31,090   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-37-26.113/overlaps.csv
+10:37:31,091   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-37-26.113/overlapCount.txt
+10:37:31,092   INFO Simulation:251 - Finished writing all output files
+10:37:31,092   INFO Simulation:254 - Post-loop: before waitForTraci
+10:37:31,093   INFO Simulation:261 - Post-loop: finished.
+10:37:31,093   INFO ScenarioRun:207 - Simulation run finished.
+10:37:31,093   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+10:39:45,175   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+10:39:45,179   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+10:39:45,479   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+10:39:45,480   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+10:39:46,109   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+10:39:46,351   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+10:39:46,363   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+10:39:46,370   INFO ScenarioRun:128 - scenario context initialized.
+10:39:46,373   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+10:39:46,373   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+10:39:46,656   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+10:39:46,686   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+10:39:46,890   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+10:39:46,964   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+10:39:47,059   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+10:39:47,188   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+10:39:47,288   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+10:39:47,317   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+10:39:47,352   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+10:39:47,392   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+10:39:47,420   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+10:39:47,563   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:902[ms]
+10:39:47,567   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+10:39:47,855   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:210[ms]
+10:39:47,856   INFO Simulation:277 - preLoop finished.
+10:39:50,995   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-39-46.362/postvis.traj
+10:39:51,088   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-39-46.362/overlaps.csv
+10:39:51,089   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-39-46.362/overlapCount.txt
+10:39:51,090   INFO Simulation:251 - Finished writing all output files
+10:39:51,090   INFO Simulation:254 - Post-loop: before waitForTraci
+10:39:51,091   INFO Simulation:261 - Post-loop: finished.
+10:39:51,091   INFO ScenarioRun:207 - Simulation run finished.
+10:39:51,092   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+10:44:25,845   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+10:44:25,847   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+10:44:26,137   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+10:44:26,137   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+10:44:26,708   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+10:44:26,893   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+10:44:26,905   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+10:44:26,911   INFO ScenarioRun:128 - scenario context initialized.
+10:44:26,914   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+10:44:26,915   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+10:44:27,280   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+10:44:27,309   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+10:44:27,564   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+10:44:27,766   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+10:44:27,946   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+10:44:28,031   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+10:44:28,096   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+10:44:28,130   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+10:44:28,158   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+10:44:28,197   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+10:44:28,244   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+10:44:28,335   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1052[ms]
+10:44:28,338   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+10:44:28,647   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:234[ms]
+10:44:28,648   INFO Simulation:277 - preLoop finished.
+10:44:31,783   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-44-26.903/postvis.traj
+10:44:31,873   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-44-26.903/overlaps.csv
+10:44:31,874   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-44-26.903/overlapCount.txt
+10:44:31,876   INFO Simulation:251 - Finished writing all output files
+10:44:31,876   INFO Simulation:254 - Post-loop: before waitForTraci
+10:44:31,876   INFO Simulation:261 - Post-loop: finished.
+10:44:31,877   INFO ScenarioRun:207 - Simulation run finished.
+10:44:31,877   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+10:52:18,318   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+10:52:18,323   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+10:52:18,818   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+10:52:18,819   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+10:52:19,611   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+10:52:19,994   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+10:52:20,013   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+10:52:20,024   INFO ScenarioRun:128 - scenario context initialized.
+10:52:20,027   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+10:52:20,028   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+10:52:20,482   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+10:52:20,518   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+10:52:20,759   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+10:52:20,888   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+10:52:20,977   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+10:52:21,096   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+10:52:21,147   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+10:52:21,175   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+10:52:21,208   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+10:52:21,244   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+10:52:21,269   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+10:52:21,340   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:853[ms]
+10:52:21,347   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+10:52:21,560   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:156[ms]
+10:52:21,561   INFO Simulation:277 - preLoop finished.
+10:52:24,668   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-52-20.12/postvis.traj
+10:52:24,754   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-52-20.12/overlaps.csv
+10:52:24,755   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_10-52-20.12/overlapCount.txt
+10:52:24,756   INFO Simulation:251 - Finished writing all output files
+10:52:24,757   INFO Simulation:254 - Post-loop: before waitForTraci
+10:52:24,757   INFO Simulation:261 - Post-loop: finished.
+10:52:24,758   INFO ScenarioRun:207 - Simulation run finished.
+10:52:24,758   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+11:08:01,884   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:08:01,889   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+11:08:02,387   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <Add_Ped_corner_scenario_40x40>
+11:08:02,387   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:08:03,439   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:08:03,847   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+11:08:03,867   INFO ScenarioRun:147 - Initializing scenario: Add_Ped_corner_scenario_40x40...
+11:08:03,881   INFO ScenarioRun:128 - scenario context initialized.
+11:08:03,885   INFO ScenarioRun:229 - no mesh Add_Ped_corner_scenario_40x40.poly was found.
+11:08:03,886   INFO ScenarioRun:229 - no mesh Add_Ped_corner_scenario_40x40_background.poly was found.
+11:08:04,556   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:08:04,606   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:08:04,921   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:08:05,382   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:08:05,524   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:08:05,645   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:08:05,682   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:08:05,715   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:08:05,752   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:08:05,789   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:08:05,901   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:08:06,006   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1445[ms]
+11:08:06,014   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+11:08:06,310   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:219[ms]
+11:08:06,311   INFO Simulation:277 - preLoop finished.
+11:08:09,683   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/Add_Ped_corner_scenario_40x40_2023-05-08_11-08-03.866/postvis.traj
+11:08:09,750   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/Add_Ped_corner_scenario_40x40_2023-05-08_11-08-03.866/overlaps.csv
+11:08:09,751   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/Add_Ped_corner_scenario_40x40_2023-05-08_11-08-03.866/overlapCount.txt
+11:08:09,752   INFO Simulation:251 - Finished writing all output files
+11:08:09,752   INFO Simulation:254 - Post-loop: before waitForTraci
+11:08:09,753   INFO Simulation:261 - Post-loop: finished.
+11:08:09,753   INFO ScenarioRun:207 - Simulation run finished.
+11:08:09,753   INFO ScenarioRun:265 - Simulation of scenario Add_Ped_corner_scenario_40x40 finished.
+11:29:25,833   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:29:25,838   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+11:29:26,323   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+11:29:26,323   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:29:27,110   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:29:27,509   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+11:29:27,525   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+11:29:27,536   INFO ScenarioRun:128 - scenario context initialized.
+11:29:27,542   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+11:29:27,543   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+11:29:28,088   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:29:28,138   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:29:28,522   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:29:28,627   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:29:28,710   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:29:28,857   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:29:28,910   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:29:28,938   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:29:28,971   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:29:29,007   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:29:29,033   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:29:29,129   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1037[ms]
+11:29:29,136   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+11:29:29,384   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:188[ms]
+11:29:29,385   INFO Simulation:277 - preLoop finished.
+11:29:32,490   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_11-29-27.523/postvis.traj
+11:29:32,589   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_11-29-27.523/overlaps.csv
+11:29:32,591   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_11-29-27.523/overlapCount.txt
+11:29:32,592   INFO Simulation:251 - Finished writing all output files
+11:29:32,595   INFO Simulation:254 - Post-loop: before waitForTraci
+11:29:32,595   INFO Simulation:261 - Post-loop: finished.
+11:29:32,596   INFO ScenarioRun:207 - Simulation run finished.
+11:29:32,596   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+11:30:12,388   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:30:12,391   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+11:30:12,740   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+11:30:12,741   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:30:13,368   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:30:13,542   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+11:30:13,558   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+11:30:13,565   INFO ScenarioRun:128 - scenario context initialized.
+11:30:13,572   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+11:30:13,573   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+11:30:13,925   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:30:13,949   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:30:14,148   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:30:14,205   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:30:14,263   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:30:14,351   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:30:14,398   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:30:14,423   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:30:14,456   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:30:14,491   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:30:14,515   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:30:14,609   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:677[ms]
+11:30:14,613   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+11:30:14,840   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:143[ms]
+11:30:14,841   INFO Simulation:277 - preLoop finished.
+11:30:17,916   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_11-30-13.557/postvis.traj
+11:30:17,997   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_11-30-13.557/overlaps.csv
+11:30:17,998   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_11-30-13.557/overlapCount.txt
+11:30:17,999   INFO Simulation:251 - Finished writing all output files
+11:30:18,000   INFO Simulation:254 - Post-loop: before waitForTraci
+11:30:18,000   INFO Simulation:261 - Post-loop: finished.
+11:30:18,000   INFO ScenarioRun:207 - Simulation run finished.
+11:30:18,001   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+11:30:36,378   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:30:36,381   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+11:30:36,648   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_Ped_corner_scenario_40x40>
+11:30:36,648   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:30:37,237   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:30:37,413   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+11:30:37,423   INFO ScenarioRun:147 - Initializing scenario: add_Ped_corner_scenario_40x40...
+11:30:37,430   INFO ScenarioRun:128 - scenario context initialized.
+11:30:37,432   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40.poly was found.
+11:30:37,432   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40_background.poly was found.
+11:30:37,801   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:30:37,836   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:30:38,098   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:30:38,298   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:30:38,514   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:30:38,576   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:30:38,636   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:30:38,690   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:30:38,729   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:30:38,814   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:30:38,870   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:30:38,909   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1103[ms]
+11:30:38,912   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+11:30:39,128   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:169[ms]
+11:30:39,129   INFO Simulation:277 - preLoop finished.
+11:30:42,155   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_11-30-37.422/postvis.traj
+11:30:42,222   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_11-30-37.422/overlaps.csv
+11:30:42,223   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_11-30-37.422/overlapCount.txt
+11:30:42,224   INFO Simulation:251 - Finished writing all output files
+11:30:42,225   INFO Simulation:254 - Post-loop: before waitForTraci
+11:30:42,225   INFO Simulation:261 - Post-loop: finished.
+11:30:42,226   INFO ScenarioRun:207 - Simulation run finished.
+11:30:42,226   INFO ScenarioRun:265 - Simulation of scenario add_Ped_corner_scenario_40x40 finished.
+11:31:08,508   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:31:08,511   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+11:31:08,693   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+11:31:08,693   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:31:09,281   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:31:09,465   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+11:31:09,479   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+11:31:09,487   INFO ScenarioRun:128 - scenario context initialized.
+11:31:09,490   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+11:31:09,491   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+11:31:09,802   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:31:09,821   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:31:10,017   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:31:10,192   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:31:10,383   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:31:10,448   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:31:10,475   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:31:10,507   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:31:10,541   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:31:10,569   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:31:10,601   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:31:10,629   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:825[ms]
+11:31:10,632   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+11:31:10,848   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:173[ms]
+11:31:10,849   INFO Simulation:277 - preLoop finished.
+11:31:13,980   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_11-31-09.477/postvis.traj
+11:31:14,108   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_11-31-09.477/overlaps.csv
+11:31:14,110   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_11-31-09.477/overlapCount.txt
+11:31:14,113   INFO Simulation:251 - Finished writing all output files
+11:31:14,113   INFO Simulation:254 - Post-loop: before waitForTraci
+11:31:14,114   INFO Simulation:261 - Post-loop: finished.
+11:31:14,114   INFO ScenarioRun:207 - Simulation run finished.
+11:31:14,115   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+11:31:15,418   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:31:15,422   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+11:31:15,608   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_Ped_corner_scenario_40x40>
+11:31:15,608   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:31:16,537   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:31:16,747   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+11:31:16,762   INFO ScenarioRun:147 - Initializing scenario: add_Ped_corner_scenario_40x40...
+11:31:16,771   INFO ScenarioRun:128 - scenario context initialized.
+11:31:16,774   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40.poly was found.
+11:31:16,775   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40_background.poly was found.
+11:31:17,257   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:31:17,325   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:31:17,755   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:31:17,893   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:31:18,069   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:31:18,153   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:31:18,181   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:31:18,218   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:31:18,254   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:31:18,310   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:31:18,365   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:31:18,443   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1175[ms]
+11:31:18,446   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+11:31:18,724   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:209[ms]
+11:31:18,725   INFO Simulation:277 - preLoop finished.
+11:31:21,988   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_11-31-16.761/postvis.traj
+11:31:22,104   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_11-31-16.761/overlaps.csv
+11:31:22,105   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_11-31-16.761/overlapCount.txt
+11:31:22,106   INFO Simulation:251 - Finished writing all output files
+11:31:22,106   INFO Simulation:254 - Post-loop: before waitForTraci
+11:31:22,106   INFO Simulation:261 - Post-loop: finished.
+11:31:22,107   INFO ScenarioRun:207 - Simulation run finished.
+11:31:22,107   INFO ScenarioRun:265 - Simulation of scenario add_Ped_corner_scenario_40x40 finished.
+12:06:48,061   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:06:48,067   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+12:06:48,560   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+12:06:48,560   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:06:49,486   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:06:49,917   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:06:49,939   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+12:06:49,953   INFO ScenarioRun:128 - scenario context initialized.
+12:06:49,957   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+12:06:49,957   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+12:06:50,545   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:06:50,580   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:06:50,854   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:06:50,956   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:06:51,057   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:06:51,237   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:06:51,323   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:06:51,361   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:06:51,402   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:06:51,445   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:06:51,475   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:06:51,599   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1047[ms]
+12:06:51,606   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:06:51,896   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:206[ms]
+12:06:51,897   INFO Simulation:277 - preLoop finished.
+12:06:55,188   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-06-49.937/postvis.traj
+12:06:55,326   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-06-49.937/overlaps.csv
+12:06:55,327   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-06-49.937/overlapCount.txt
+12:06:55,329   INFO Simulation:251 - Finished writing all output files
+12:06:55,330   INFO Simulation:254 - Post-loop: before waitForTraci
+12:06:55,330   INFO Simulation:261 - Post-loop: finished.
+12:06:55,331   INFO ScenarioRun:207 - Simulation run finished.
+12:06:55,331   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+12:07:58,719   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:07:58,722   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+12:07:59,023   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+12:07:59,023   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:07:59,736   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:08:00,015   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:08:00,033   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+12:08:00,051   INFO ScenarioRun:128 - scenario context initialized.
+12:08:00,055   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+12:08:00,056   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+12:08:00,417   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:08:00,440   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:08:00,648   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:08:00,711   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:08:00,775   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:08:00,870   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:08:00,918   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:08:00,949   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:08:00,989   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:08:01,036   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:08:01,072   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:08:01,158   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:738[ms]
+12:08:01,163   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:08:01,392   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:171[ms]
+12:08:01,393   INFO Simulation:277 - preLoop finished.
+12:08:04,438   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-08-00.32/postvis.traj
+12:08:04,520   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-08-00.32/overlaps.csv
+12:08:04,521   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-08-00.32/overlapCount.txt
+12:08:04,522   INFO Simulation:251 - Finished writing all output files
+12:08:04,522   INFO Simulation:254 - Post-loop: before waitForTraci
+12:08:04,522   INFO Simulation:261 - Post-loop: finished.
+12:08:04,523   INFO ScenarioRun:207 - Simulation run finished.
+12:08:04,523   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+12:10:04,805   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:10:04,807   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+12:10:05,092   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+12:10:05,093   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:10:05,647   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:10:05,846   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:10:05,861   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+12:10:05,871   INFO ScenarioRun:128 - scenario context initialized.
+12:10:05,878   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+12:10:05,879   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+12:10:06,194   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:10:06,230   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:10:06,496   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:10:06,615   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:10:06,700   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:10:06,807   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:10:06,861   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:10:06,908   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:10:06,961   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:10:07,023   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:10:07,055   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:10:07,118   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:921[ms]
+12:10:07,121   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:10:07,415   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:240[ms]
+12:10:07,416   INFO Simulation:277 - preLoop finished.
+12:10:10,500   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-10-05.860/postvis.traj
+12:10:10,583   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-10-05.860/overlaps.csv
+12:10:10,584   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-10-05.860/overlapCount.txt
+12:10:10,585   INFO Simulation:251 - Finished writing all output files
+12:10:10,585   INFO Simulation:254 - Post-loop: before waitForTraci
+12:10:10,586   INFO Simulation:261 - Post-loop: finished.
+12:10:10,586   INFO ScenarioRun:207 - Simulation run finished.
+12:10:10,586   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+12:20:08,526   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:20:08,529   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+12:20:08,654   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+12:20:08,654   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:20:09,161   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:20:09,362   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:20:09,394   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+12:20:09,407   INFO ScenarioRun:128 - scenario context initialized.
+12:20:09,409   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+12:20:09,410   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+12:20:09,710   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:20:09,734   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:20:09,920   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:20:09,990   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:20:10,157   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:20:10,266   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:20:10,296   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:20:10,331   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:20:10,376   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:20:10,424   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:20:10,497   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:20:10,593   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:880[ms]
+12:20:10,596   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:20:10,805   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:151[ms]
+12:20:10,806   INFO Simulation:277 - preLoop finished.
+12:20:13,924   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-20-09.391/postvis.traj
+12:20:14,027   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-20-09.391/overlaps.csv
+12:20:14,029   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-20-09.391/overlapCount.txt
+12:20:14,035   INFO Simulation:251 - Finished writing all output files
+12:20:14,036   INFO Simulation:254 - Post-loop: before waitForTraci
+12:20:14,036   INFO Simulation:261 - Post-loop: finished.
+12:20:14,037   INFO ScenarioRun:207 - Simulation run finished.
+12:20:14,037   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+12:22:30,809   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:22:30,813   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+12:22:30,990   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+12:22:30,990   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:22:31,630   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:22:31,820   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:22:31,831   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+12:22:31,836   INFO ScenarioRun:128 - scenario context initialized.
+12:22:31,839   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+12:22:31,840   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+12:22:32,124   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:22:32,147   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:22:32,346   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:22:32,427   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:22:32,542   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:22:32,612   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:22:32,639   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:22:32,670   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:22:32,699   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:22:32,744   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:22:32,799   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:22:32,923   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:794[ms]
+12:22:32,926   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:22:33,139   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:150[ms]
+12:22:33,140   INFO Simulation:277 - preLoop finished.
+12:22:36,295   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-22-31.830/postvis.traj
+12:22:36,385   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-22-31.830/overlaps.csv
+12:22:36,386   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-22-31.830/overlapCount.txt
+12:22:36,388   INFO Simulation:251 - Finished writing all output files
+12:22:36,388   INFO Simulation:254 - Post-loop: before waitForTraci
+12:22:36,388   INFO Simulation:261 - Post-loop: finished.
+12:22:36,389   INFO ScenarioRun:207 - Simulation run finished.
+12:22:36,390   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+12:24:10,610   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:24:10,614   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+12:24:10,792   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_Ped_corner_scenario_40x40>
+12:24:10,792   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:24:11,411   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:24:11,612   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:24:11,629   INFO ScenarioRun:147 - Initializing scenario: add_Ped_corner_scenario_40x40...
+12:24:11,636   INFO ScenarioRun:128 - scenario context initialized.
+12:24:11,639   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40.poly was found.
+12:24:11,640   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40_background.poly was found.
+12:24:11,930   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:24:11,956   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:24:12,159   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:24:12,243   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:24:12,434   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:24:12,518   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:24:12,546   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:24:12,577   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:24:12,611   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:24:12,649   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:24:12,737   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:24:12,913   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:979[ms]
+12:24:12,916   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+12:24:13,143   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:175[ms]
+12:24:13,144   INFO Simulation:277 - preLoop finished.
+12:24:16,214   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_12-24-11.627/postvis.traj
+12:24:16,273   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_12-24-11.627/overlaps.csv
+12:24:16,274   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_12-24-11.627/overlapCount.txt
+12:24:16,275   INFO Simulation:251 - Finished writing all output files
+12:24:16,276   INFO Simulation:254 - Post-loop: before waitForTraci
+12:24:16,276   INFO Simulation:261 - Post-loop: finished.
+12:24:16,276   INFO ScenarioRun:207 - Simulation run finished.
+12:24:16,277   INFO ScenarioRun:265 - Simulation of scenario add_Ped_corner_scenario_40x40 finished.
+12:28:29,844   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:28:29,849   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+12:28:29,850  ERROR ScenarioRunSubCommand:60 - scenario-file does not exist, is not a regular file or you do not have read permissions: /Users/diyun/Desktop/vadere/corner_scenario_20x20.scenario
+12:29:28,696   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:29:28,702   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+12:29:29,208   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_OSM_20x20>
+12:29:29,208   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:29:30,299   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:29:30,685   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:29:30,703   INFO ScenarioRun:147 - Initializing scenario: corner_OSM_20x20...
+12:29:30,716   INFO ScenarioRun:128 - scenario context initialized.
+12:29:30,720   INFO ScenarioRun:229 - no mesh corner_OSM_20x20.poly was found.
+12:29:30,721   INFO ScenarioRun:229 - no mesh corner_OSM_20x20_background.poly was found.
+12:29:31,216   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:29:31,233   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/40401 [points]
+12:29:31,378   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 4041/40401 [points]
+12:29:31,420   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 8081/40401 [points]
+12:29:31,457   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 12121/40401 [points]
+12:29:31,470   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 16161/40401 [points]
+12:29:31,484   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 20201/40401 [points]
+12:29:31,506   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 24241/40401 [points]
+12:29:31,525   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 28281/40401 [points]
+12:29:31,536   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 32321/40401 [points]
+12:29:31,548   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 36361/40401 [points]
+12:29:31,575   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:355[ms]
+12:29:31,586   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:29:31,680   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:54[ms]
+12:29:31,681   INFO Simulation:277 - preLoop finished.
+12:29:35,417   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_OSM_20x20_2023-05-08_12-29-30.702/postvis.traj
+12:29:35,490   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_OSM_20x20_2023-05-08_12-29-30.702/overlaps.csv
+12:29:35,491   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_OSM_20x20_2023-05-08_12-29-30.702/overlapCount.txt
+12:29:35,492   INFO Simulation:251 - Finished writing all output files
+12:29:35,493   INFO Simulation:254 - Post-loop: before waitForTraci
+12:29:35,493   INFO Simulation:261 - Post-loop: finished.
+12:29:35,493   INFO ScenarioRun:207 - Simulation run finished.
+12:29:35,493   INFO ScenarioRun:265 - Simulation of scenario corner_OSM_20x20 finished.
+12:35:53,524   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:35:53,529   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+12:35:53,985   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario_40x40>
+12:35:53,985   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:35:55,034   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:35:55,429   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:35:55,448   INFO ScenarioRun:147 - Initializing scenario: corner_scenario_40x40...
+12:35:55,460   INFO ScenarioRun:128 - scenario context initialized.
+12:35:55,463   INFO ScenarioRun:229 - no mesh corner_scenario_40x40.poly was found.
+12:35:55,464   INFO ScenarioRun:229 - no mesh corner_scenario_40x40_background.poly was found.
+12:35:55,957   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:35:55,990   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:35:56,214   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:35:56,330   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:35:56,402   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:35:56,578   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:35:56,708   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:35:56,762   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:35:56,833   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:35:56,873   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:35:56,899   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:35:57,051   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1089[ms]
+12:35:57,057   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:35:57,322   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:176[ms]
+12:35:57,324   INFO Simulation:277 - preLoop finished.
+12:36:00,595   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-35-55.446/postvis.traj
+12:36:00,715   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-35-55.446/overlaps.csv
+12:36:00,717   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_40x40_2023-05-08_12-35-55.446/overlapCount.txt
+12:36:00,719   INFO Simulation:251 - Finished writing all output files
+12:36:00,720   INFO Simulation:254 - Post-loop: before waitForTraci
+12:36:00,720   INFO Simulation:261 - Post-loop: finished.
+12:36:00,721   INFO ScenarioRun:207 - Simulation run finished.
+12:36:00,721   INFO ScenarioRun:265 - Simulation of scenario corner_scenario_40x40 finished.
+12:36:02,386   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:36:02,392   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+12:36:02,720   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_Ped_corner_scenario_40x40>
+12:36:02,720   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:36:03,890   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:36:04,194   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:36:04,205   INFO ScenarioRun:147 - Initializing scenario: add_Ped_corner_scenario_40x40...
+12:36:04,211   INFO ScenarioRun:128 - scenario context initialized.
+12:36:04,213   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40.poly was found.
+12:36:04,214   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40_background.poly was found.
+12:36:04,553   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:36:04,595   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:36:04,846   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:36:04,933   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:36:05,019   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:36:05,125   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:36:05,196   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:36:05,230   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:36:05,273   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:36:05,321   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:36:05,350   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:36:05,498   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:942[ms]
+12:36:05,501   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+12:36:06,012   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:425[ms]
+12:36:06,013   INFO Simulation:277 - preLoop finished.
+12:36:09,159   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_12-36-04.204/postvis.traj
+12:36:09,230   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_12-36-04.204/overlaps.csv
+12:36:09,231   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_12-36-04.204/overlapCount.txt
+12:36:09,232   INFO Simulation:251 - Finished writing all output files
+12:36:09,233   INFO Simulation:254 - Post-loop: before waitForTraci
+12:36:09,233   INFO Simulation:261 - Post-loop: finished.
+12:36:09,233   INFO ScenarioRun:207 - Simulation run finished.
+12:36:09,233   INFO ScenarioRun:265 - Simulation of scenario add_Ped_corner_scenario_40x40 finished.
+13:43:29,403   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+13:43:29,408   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+13:43:29,847   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_OSM_40x40>
+13:43:29,848   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+13:43:30,779   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+13:43:31,158   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+13:43:31,175   INFO ScenarioRun:147 - Initializing scenario: corner_OSM_40x40...
+13:43:31,190   INFO ScenarioRun:128 - scenario context initialized.
+13:43:31,194   INFO ScenarioRun:229 - no mesh corner_OSM_40x40.poly was found.
+13:43:31,194   INFO ScenarioRun:229 - no mesh corner_OSM_40x40_background.poly was found.
+13:43:31,691   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+13:43:31,721   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+13:43:31,942   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+13:43:32,002   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+13:43:32,054   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+13:43:32,132   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+13:43:32,194   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+13:43:32,223   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+13:43:32,259   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+13:43:32,290   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+13:43:32,325   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+13:43:32,355   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:660[ms]
+13:43:32,361   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+13:43:32,628   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:196[ms]
+13:43:32,629   INFO Simulation:277 - preLoop finished.
+13:43:36,311   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_OSM_40x40_2023-05-08_13-43-31.174/postvis.traj
+13:43:36,472   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_OSM_40x40_2023-05-08_13-43-31.174/overlaps.csv
+13:43:36,474   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_OSM_40x40_2023-05-08_13-43-31.174/overlapCount.txt
+13:43:36,476   INFO Simulation:251 - Finished writing all output files
+13:43:36,476   INFO Simulation:254 - Post-loop: before waitForTraci
+13:43:36,476   INFO Simulation:261 - Post-loop: finished.
+13:43:36,478   INFO ScenarioRun:207 - Simulation run finished.
+13:43:36,479   INFO ScenarioRun:265 - Simulation of scenario corner_OSM_40x40 finished.
+13:43:41,592   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+13:43:41,594   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+13:43:41,729   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_Ped_corner_scenario_40x40>
+13:43:41,729   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+13:43:42,399   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+13:43:42,532   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+13:43:42,542   INFO ScenarioRun:147 - Initializing scenario: add_Ped_corner_scenario_40x40...
+13:43:42,547   INFO ScenarioRun:128 - scenario context initialized.
+13:43:42,551   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40.poly was found.
+13:43:42,553   INFO ScenarioRun:229 - no mesh add_Ped_corner_scenario_40x40_background.poly was found.
+13:43:42,831   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+13:43:42,868   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+13:43:43,123   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+13:43:43,182   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+13:43:43,263   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+13:43:43,324   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+13:43:43,357   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+13:43:43,391   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+13:43:43,419   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+13:43:43,456   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+13:43:43,483   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+13:43:43,544   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:708[ms]
+13:43:43,547   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+13:43:43,813   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:194[ms]
+13:43:43,814   INFO Simulation:277 - preLoop finished.
+13:43:47,524   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_13-43-42.541/postvis.traj
+13:43:47,607   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_13-43-42.541/overlaps.csv
+13:43:47,608   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_Ped_corner_scenario_40x40_2023-05-08_13-43-42.541/overlapCount.txt
+13:43:47,609   INFO Simulation:251 - Finished writing all output files
+13:43:47,609   INFO Simulation:254 - Post-loop: before waitForTraci
+13:43:47,609   INFO Simulation:261 - Post-loop: finished.
+13:43:47,610   INFO ScenarioRun:207 - Simulation run finished.
+13:43:47,610   INFO ScenarioRun:265 - Simulation of scenario add_Ped_corner_scenario_40x40 finished.
+14:38:52,926   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+14:38:52,932   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+14:38:53,410   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario>
+14:38:53,410   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+14:38:54,286   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+14:38:54,711   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+14:38:54,733   INFO ScenarioRun:147 - Initializing scenario: corner_scenario...
+14:38:54,759   INFO ScenarioRun:128 - scenario context initialized.
+14:38:54,766   INFO ScenarioRun:229 - no mesh corner_scenario.poly was found.
+14:38:54,766   INFO ScenarioRun:229 - no mesh corner_scenario_background.poly was found.
+14:38:55,269   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+14:38:55,301   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+14:38:55,491   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+14:38:55,569   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+14:38:55,653   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+14:38:55,827   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+14:38:55,934   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+14:38:55,987   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+14:38:56,035   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+14:38:56,078   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+14:38:56,120   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+14:38:56,162   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:886[ms]
+14:38:56,170   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+14:38:56,485   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:243[ms]
+14:38:56,486   INFO Simulation:277 - preLoop finished.
+14:39:00,098   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-09_14-38-54.729/postvis.traj
+14:39:00,223   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-09_14-38-54.729/overlaps.csv
+14:39:00,225   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-09_14-38-54.729/overlapCount.txt
+14:39:00,226   INFO Simulation:251 - Finished writing all output files
+14:39:00,226   INFO Simulation:254 - Post-loop: before waitForTraci
+14:39:00,227   INFO Simulation:261 - Post-loop: finished.
+14:39:00,227   INFO ScenarioRun:207 - Simulation run finished.
+14:39:00,227   INFO ScenarioRun:265 - Simulation of scenario corner_scenario finished.
+14:39:01,954   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+14:39:01,957   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+14:39:02,258   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_pedestrian_corner_scenario>
+14:39:02,258   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+14:39:03,121   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+14:39:03,408   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+14:39:03,419   INFO ScenarioRun:147 - Initializing scenario: add_pedestrian_corner_scenario...
+14:39:03,431   INFO ScenarioRun:128 - scenario context initialized.
+14:39:03,435   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario.poly was found.
+14:39:03,435   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario_background.poly was found.
+14:39:03,721   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+14:39:03,746   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+14:39:03,910   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+14:39:03,966   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+14:39:04,054   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+14:39:04,152   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+14:39:04,193   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+14:39:04,227   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+14:39:04,275   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+14:39:04,321   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+14:39:04,350   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+14:39:04,401   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:674[ms]
+14:39:04,406   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+14:39:04,710   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:214[ms]
+14:39:04,710   INFO Simulation:277 - preLoop finished.
+14:39:08,356   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-09_14-39-03.419/postvis.traj
+14:39:08,418   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-09_14-39-03.419/overlaps.csv
+14:39:08,419   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-09_14-39-03.419/overlapCount.txt
+14:39:08,420   INFO Simulation:251 - Finished writing all output files
+14:39:08,420   INFO Simulation:254 - Post-loop: before waitForTraci
+14:39:08,420   INFO Simulation:261 - Post-loop: finished.
+14:39:08,421   INFO ScenarioRun:207 - Simulation run finished.
+14:39:08,421   INFO ScenarioRun:265 - Simulation of scenario add_pedestrian_corner_scenario finished.
+14:43:23,432   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+14:43:23,437   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+14:43:23,859   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario>
+14:43:23,860   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+14:43:24,747   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+14:43:25,117   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+14:43:25,132   INFO ScenarioRun:147 - Initializing scenario: corner_scenario...
+14:43:25,144   INFO ScenarioRun:128 - scenario context initialized.
+14:43:25,149   INFO ScenarioRun:229 - no mesh corner_scenario.poly was found.
+14:43:25,149   INFO ScenarioRun:229 - no mesh corner_scenario_background.poly was found.
+14:43:25,764   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+14:43:25,818   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+14:43:26,090   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+14:43:26,164   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+14:43:26,228   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+14:43:26,348   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+14:43:26,423   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+14:43:26,455   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+14:43:26,498   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+14:43:26,539   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+14:43:26,578   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+14:43:26,642   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:871[ms]
+14:43:26,650   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+14:43:26,982   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:234[ms]
+14:43:26,983   INFO Simulation:277 - preLoop finished.
+14:43:30,648   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-09_14-43-25.131/postvis.traj
+14:43:30,762   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-09_14-43-25.131/overlaps.csv
+14:43:30,763   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-09_14-43-25.131/overlapCount.txt
+14:43:30,765   INFO Simulation:251 - Finished writing all output files
+14:43:30,766   INFO Simulation:254 - Post-loop: before waitForTraci
+14:43:30,766   INFO Simulation:261 - Post-loop: finished.
+14:43:30,766   INFO ScenarioRun:207 - Simulation run finished.
+14:43:30,767   INFO ScenarioRun:265 - Simulation of scenario corner_scenario finished.
+14:43:32,405   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+14:43:32,409   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+14:43:32,706   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_pedestrian_corner_scenario>
+14:43:32,707   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+14:43:33,704   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+14:43:34,039   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+14:43:34,052   INFO ScenarioRun:147 - Initializing scenario: add_pedestrian_corner_scenario...
+14:43:34,066   INFO ScenarioRun:128 - scenario context initialized.
+14:43:34,071   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario.poly was found.
+14:43:34,072   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario_background.poly was found.
+14:43:34,508   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+14:43:34,535   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+14:43:34,764   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+14:43:34,840   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+14:43:34,964   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+14:43:35,048   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+14:43:35,094   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+14:43:35,146   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+14:43:35,190   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+14:43:35,245   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+14:43:35,274   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+14:43:35,340   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:827[ms]
+14:43:35,346   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+14:43:35,579   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:160[ms]
+14:43:35,580   INFO Simulation:277 - preLoop finished.
+14:43:39,231   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-09_14-43-34.51/postvis.traj
+14:43:39,312   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-09_14-43-34.51/overlaps.csv
+14:43:39,317   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-09_14-43-34.51/overlapCount.txt
+14:43:39,319   INFO Simulation:251 - Finished writing all output files
+14:43:39,320   INFO Simulation:254 - Post-loop: before waitForTraci
+14:43:39,320   INFO Simulation:261 - Post-loop: finished.
+14:43:39,321   INFO ScenarioRun:207 - Simulation run finished.
+14:43:39,321   INFO ScenarioRun:265 - Simulation of scenario add_pedestrian_corner_scenario finished.
+12:35:13,843   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:35:13,878   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+12:35:14,365   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario>
+12:35:14,365   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:35:15,795   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:35:16,238   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:35:16,254   INFO ScenarioRun:147 - Initializing scenario: corner_scenario...
+12:35:16,268   INFO ScenarioRun:128 - scenario context initialized.
+12:35:16,273   INFO ScenarioRun:229 - no mesh corner_scenario.poly was found.
+12:35:16,274   INFO ScenarioRun:229 - no mesh corner_scenario_background.poly was found.
+12:35:16,821   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:35:16,867   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:35:17,502   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:35:17,628   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:35:17,726   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:35:17,864   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:35:17,958   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:35:18,012   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:35:18,074   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:35:18,122   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:35:18,174   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:35:18,217   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1391[ms]
+12:35:18,223   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:35:19,009   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:609[ms]
+12:35:19,012   INFO Simulation:277 - preLoop finished.
+12:35:22,950   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-35-16.253/postvis.traj
+12:35:22,964  ERROR ScenarioRun:203 - Simulation failed
+java.io.UncheckedIOException: java.io.FileNotFoundException: /Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-35-16.253/postvis.traj (No such file or directory)
+	at org.vadere.simulator.projects.dataprocessing.writer.VadereFileWriter.<init>(VadereFileWriter.java:21) ~[vadere-console.jar:?]
+	at org.vadere.simulator.projects.dataprocessing.writer.VadereFileWriterFactory.create(VadereFileWriterFactory.java:10) ~[vadere-console.jar:?]
+	at org.vadere.simulator.projects.dataprocessing.outputfile.OutputFile.write(OutputFile.java:110) ~[vadere-console.jar:?]
+	at org.vadere.simulator.projects.dataprocessing.ProcessorManager.lambda$writeOutput$7(ProcessorManager.java:103) ~[vadere-console.jar:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.vadere.simulator.projects.dataprocessing.ProcessorManager.writeOutput(ProcessorManager.java:103) ~[vadere-console.jar:?]
+	at org.vadere.simulator.control.simulation.Simulation.postLoop(Simulation.java:249) ~[vadere-console.jar:?]
+	at org.vadere.simulator.control.simulation.Simulation.run(Simulation.java:366) ~[vadere-console.jar:?]
+	at org.vadere.simulator.control.simulation.ScenarioRun.run(ScenarioRun.java:199) [vadere-console.jar:?]
+	at org.vadere.simulator.entrypoints.cmd.commands.ScenarioRunSubCommand.run(ScenarioRunSubCommand.java:69) [vadere-console.jar:?]
+	at org.vadere.simulator.entrypoints.cmd.VadereConsole.main(VadereConsole.java:37) [vadere-console.jar:?]
+Caused by: java.io.FileNotFoundException: /Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-35-16.253/postvis.traj (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:123) ~[?:?]
+	at java.io.FileWriter.<init>(FileWriter.java:66) ~[?:?]
+	at org.vadere.simulator.projects.dataprocessing.writer.VadereFileWriter.<init>(VadereFileWriter.java:19) ~[vadere-console.jar:?]
+	... 10 more
+12:35:23,018   INFO ScenarioRun:207 - Simulation run finished.
+12:35:23,020   INFO ScenarioRun:265 - Simulation of scenario corner_scenario finished.
+12:35:23,021 STDERR STDOUTERR:32 - java.lang.RuntimeException: Simulation failed.
+12:35:23,021 STDERR STDOUTERR:32 - 	at org.vadere.simulator.control.simulation.ScenarioRun.run(ScenarioRun.java:204)
+12:35:23,022 STDERR STDOUTERR:32 - 	at org.vadere.simulator.entrypoints.cmd.commands.ScenarioRunSubCommand.run(ScenarioRunSubCommand.java:69)
+12:35:23,022 STDERR STDOUTERR:32 - 	at org.vadere.simulator.entrypoints.cmd.VadereConsole.main(VadereConsole.java:37)
+12:35:23,022 STDERR STDOUTERR:32 - Caused by: java.io.UncheckedIOException: java.io.FileNotFoundException: /Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-35-16.253/postvis.traj (No such file or directory)
+12:35:23,023 STDERR STDOUTERR:32 - 	at org.vadere.simulator.projects.dataprocessing.writer.VadereFileWriter.<init>(VadereFileWriter.java:21)
+12:35:23,023 STDERR STDOUTERR:32 - 	at org.vadere.simulator.projects.dataprocessing.writer.VadereFileWriterFactory.create(VadereFileWriterFactory.java:10)
+12:35:23,023 STDERR STDOUTERR:32 - 	at org.vadere.simulator.projects.dataprocessing.outputfile.OutputFile.write(OutputFile.java:110)
+12:35:23,023 STDERR STDOUTERR:32 - 	at org.vadere.simulator.projects.dataprocessing.ProcessorManager.lambda$writeOutput$7(ProcessorManager.java:103)
+12:35:23,024 STDERR STDOUTERR:32 - 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+12:35:23,024 STDERR STDOUTERR:32 - 	at org.vadere.simulator.projects.dataprocessing.ProcessorManager.writeOutput(ProcessorManager.java:103)
+12:35:23,024 STDERR STDOUTERR:32 - 	at org.vadere.simulator.control.simulation.Simulation.postLoop(Simulation.java:249)
+12:35:23,025 STDERR STDOUTERR:32 - 	at org.vadere.simulator.control.simulation.Simulation.run(Simulation.java:366)
+12:35:23,025 STDERR STDOUTERR:32 - 	at org.vadere.simulator.control.simulation.ScenarioRun.run(ScenarioRun.java:199)
+12:35:23,025 STDERR STDOUTERR:32 - 	... 2 more
+12:35:23,026 STDERR STDOUTERR:32 - Caused by: java.io.FileNotFoundException: /Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-35-16.253/postvis.traj (No such file or directory)
+12:35:23,026 STDERR STDOUTERR:32 - 	at java.base/java.io.FileOutputStream.open0(Native Method)
+12:35:23,027 STDERR STDOUTERR:32 - 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+12:35:23,027 STDERR STDOUTERR:32 - 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+12:35:23,028 STDERR STDOUTERR:32 - 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+12:35:23,029 STDERR STDOUTERR:32 - 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+12:35:23,030 STDERR STDOUTERR:32 - 	at org.vadere.simulator.projects.dataprocessing.writer.VadereFileWriter.<init>(VadereFileWriter.java:19)
+12:35:23,030 STDERR STDOUTERR:32 - 	... 10 more
+12:35:23,099  ERROR ScenarioRunSubCommand:75 - java.lang.RuntimeException: Simulation failed.
+12:36:47,440   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:36:47,443   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+12:36:47,741   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario>
+12:36:47,741   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:36:48,624   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:36:48,961   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:36:48,978   INFO ScenarioRun:147 - Initializing scenario: corner_scenario...
+12:36:48,995   INFO ScenarioRun:128 - scenario context initialized.
+12:36:49,001   INFO ScenarioRun:229 - no mesh corner_scenario.poly was found.
+12:36:49,001   INFO ScenarioRun:229 - no mesh corner_scenario_background.poly was found.
+12:36:49,553   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:36:49,610   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:36:49,958   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:36:50,028   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:36:50,081   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:36:50,261   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:36:50,392   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:36:50,433   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:36:50,476   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:36:50,510   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:36:50,554   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:36:50,586   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1027[ms]
+12:36:50,589   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:36:50,864   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:209[ms]
+12:36:50,865   INFO Simulation:277 - preLoop finished.
+12:36:54,557   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-36-48.976/postvis.traj
+12:36:54,660   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-36-48.976/overlaps.csv
+12:36:54,662   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-36-48.976/overlapCount.txt
+12:36:54,662   INFO Simulation:251 - Finished writing all output files
+12:36:54,663   INFO Simulation:254 - Post-loop: before waitForTraci
+12:36:54,663   INFO Simulation:261 - Post-loop: finished.
+12:36:54,664   INFO ScenarioRun:207 - Simulation run finished.
+12:36:54,664   INFO ScenarioRun:265 - Simulation of scenario corner_scenario finished.
+12:37:08,122   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:37:08,125   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+12:37:08,475   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_pedestrian_corner_scenario>
+12:37:08,476   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:37:09,352   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:37:09,650   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:37:09,669   INFO ScenarioRun:147 - Initializing scenario: add_pedestrian_corner_scenario...
+12:37:09,684   INFO ScenarioRun:128 - scenario context initialized.
+12:37:09,689   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario.poly was found.
+12:37:09,690   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario_background.poly was found.
+12:37:10,116   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:37:10,347   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:37:10,805   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:37:10,979   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:37:11,115   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:37:11,258   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:37:11,295   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:37:11,334   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:37:11,373   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:37:11,434   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:37:11,524   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:37:11,618   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:1498[ms]
+12:37:11,623   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+12:37:11,997   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:276[ms]
+12:37:11,998   INFO Simulation:277 - preLoop finished.
+12:37:15,722   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-11_12-37-09.668/postvis.traj
+12:37:15,842   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-11_12-37-09.668/overlaps.csv
+12:37:15,844   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-11_12-37-09.668/overlapCount.txt
+12:37:15,847   INFO Simulation:251 - Finished writing all output files
+12:37:15,848   INFO Simulation:254 - Post-loop: before waitForTraci
+12:37:15,849   INFO Simulation:261 - Post-loop: finished.
+12:37:15,850   INFO ScenarioRun:207 - Simulation run finished.
+12:37:15,850   INFO ScenarioRun:265 - Simulation of scenario add_pedestrian_corner_scenario finished.
+12:40:01,961   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:40:01,967   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/vadere/output
+12:40:02,446   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario>
+12:40:02,446   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:40:03,483   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:40:03,877   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:40:03,894   INFO ScenarioRun:147 - Initializing scenario: corner_scenario...
+12:40:03,905   INFO ScenarioRun:128 - scenario context initialized.
+12:40:03,910   INFO ScenarioRun:229 - no mesh corner_scenario.poly was found.
+12:40:03,911   INFO ScenarioRun:229 - no mesh corner_scenario_background.poly was found.
+12:40:04,405   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:40:04,438   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:40:04,686   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:40:04,736   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:40:04,796   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:40:04,985   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:40:05,073   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:40:05,112   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:40:05,158   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:40:05,191   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:40:05,230   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:40:05,261   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:851[ms]
+12:40:05,268   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+12:40:05,598   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:206[ms]
+12:40:05,598   INFO Simulation:277 - preLoop finished.
+12:40:09,285   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-40-03.893/postvis.traj
+12:40:09,404   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-40-03.893/overlaps.csv
+12:40:09,406   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/corner_scenario_2023-05-11_12-40-03.893/overlapCount.txt
+12:40:09,407   INFO Simulation:251 - Finished writing all output files
+12:40:09,408   INFO Simulation:254 - Post-loop: before waitForTraci
+12:40:09,408   INFO Simulation:261 - Post-loop: finished.
+12:40:09,409   INFO ScenarioRun:207 - Simulation run finished.
+12:40:09,409   INFO ScenarioRun:265 - Simulation of scenario corner_scenario finished.
+12:40:27,124   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+12:40:27,127   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/vadere/output
+12:40:27,420   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_pedestrian_corner_scenario>
+12:40:27,421   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+12:40:28,261   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+12:40:28,611   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/vadere/__cache__
+12:40:28,626   INFO ScenarioRun:147 - Initializing scenario: add_pedestrian_corner_scenario...
+12:40:28,641   INFO ScenarioRun:128 - scenario context initialized.
+12:40:28,645   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario.poly was found.
+12:40:28,645   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario_background.poly was found.
+12:40:28,908   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+12:40:28,933   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+12:40:29,111   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+12:40:29,157   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+12:40:29,214   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+12:40:29,302   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+12:40:29,365   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+12:40:29,394   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+12:40:29,432   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+12:40:29,464   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+12:40:29,503   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+12:40:29,534   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:622[ms]
+12:40:29,538   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+12:40:29,782   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:197[ms]
+12:40:29,782   INFO Simulation:277 - preLoop finished.
+12:40:33,285   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-11_12-40-28.625/postvis.traj
+12:40:33,349   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-11_12-40-28.625/overlaps.csv
+12:40:33,350   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/vadere/output/add_pedestrian_corner_scenario_2023-05-11_12-40-28.625/overlapCount.txt
+12:40:33,351   INFO Simulation:251 - Finished writing all output files
+12:40:33,352   INFO Simulation:254 - Post-loop: before waitForTraci
+12:40:33,352   INFO Simulation:261 - Post-loop: finished.
+12:40:33,353   INFO ScenarioRun:207 - Simulation run finished.
+12:40:33,353   INFO ScenarioRun:265 - Simulation of scenario add_pedestrian_corner_scenario finished.
+11:34:06,998   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:34:07,003   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/task3/vadere/output
+11:34:07,457   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario>
+11:34:07,458   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:34:08,587   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:34:08,975   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/task3/vadere/__cache__
+11:34:08,992   INFO ScenarioRun:147 - Initializing scenario: corner_scenario...
+11:34:09,007   INFO ScenarioRun:128 - scenario context initialized.
+11:34:09,012   INFO ScenarioRun:229 - no mesh corner_scenario.poly was found.
+11:34:09,012   INFO ScenarioRun:229 - no mesh corner_scenario_background.poly was found.
+11:34:09,569   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:34:09,602   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:34:09,820   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:34:09,888   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:34:09,950   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:34:10,030   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:34:10,094   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:34:10,124   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:34:10,175   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:34:10,241   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:34:10,280   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:34:10,322   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:748[ms]
+11:34:10,330   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+11:34:10,707   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:226[ms]
+11:34:10,708   INFO Simulation:277 - preLoop finished.
+11:34:14,433   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/vadere/output/corner_scenario_2023-05-13_11-34-08.991/postvis.traj
+11:34:14,538   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/vadere/output/corner_scenario_2023-05-13_11-34-08.991/overlaps.csv
+11:34:14,539   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/vadere/output/corner_scenario_2023-05-13_11-34-08.991/overlapCount.txt
+11:34:14,540   INFO Simulation:251 - Finished writing all output files
+11:34:14,541   INFO Simulation:254 - Post-loop: before waitForTraci
+11:34:14,541   INFO Simulation:261 - Post-loop: finished.
+11:34:14,542   INFO ScenarioRun:207 - Simulation run finished.
+11:34:14,542   INFO ScenarioRun:265 - Simulation of scenario corner_scenario finished.
+11:34:15,911   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:34:15,916   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/task3/vadere/output
+11:34:16,139   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_pedestrian_corner_scenario>
+11:34:16,139   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:34:16,963   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:34:17,122   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/task3/vadere/__cache__
+11:34:17,133   INFO ScenarioRun:147 - Initializing scenario: add_pedestrian_corner_scenario...
+11:34:17,138   INFO ScenarioRun:128 - scenario context initialized.
+11:34:17,140   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario.poly was found.
+11:34:17,141   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario_background.poly was found.
+11:34:17,402   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:34:17,431   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:34:17,681   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:34:17,756   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:34:17,845   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:34:17,901   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:34:17,927   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:34:17,959   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:34:17,986   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:34:18,050   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:34:18,091   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:34:18,161   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:754[ms]
+11:34:18,164   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+11:34:18,403   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:168[ms]
+11:34:18,404   INFO Simulation:277 - preLoop finished.
+11:34:22,031   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/vadere/output/add_pedestrian_corner_scenario_2023-05-13_11-34-17.130/postvis.traj
+11:34:22,102   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/vadere/output/add_pedestrian_corner_scenario_2023-05-13_11-34-17.130/overlaps.csv
+11:34:22,103   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/vadere/output/add_pedestrian_corner_scenario_2023-05-13_11-34-17.130/overlapCount.txt
+11:34:22,104   INFO Simulation:251 - Finished writing all output files
+11:34:22,104   INFO Simulation:254 - Post-loop: before waitForTraci
+11:34:22,105   INFO Simulation:261 - Post-loop: finished.
+11:34:22,105   INFO ScenarioRun:207 - Simulation run finished.
+11:34:22,106   INFO ScenarioRun:265 - Simulation of scenario add_pedestrian_corner_scenario finished.
+11:57:35,803   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:57:35,809   INFO ScenarioRunSubCommand:52 - Created output directory: /Users/diyun/Desktop/task3/output
+11:57:36,274   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <corner_scenario>
+11:57:36,275   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:57:37,074   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:57:37,490   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/task3/__cache__
+11:57:37,507   INFO ScenarioRun:147 - Initializing scenario: corner_scenario...
+11:57:37,518   INFO ScenarioRun:128 - scenario context initialized.
+11:57:37,522   INFO ScenarioRun:229 - no mesh corner_scenario.poly was found.
+11:57:37,523   INFO ScenarioRun:229 - no mesh corner_scenario_background.poly was found.
+11:57:38,098   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:57:38,135   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:57:38,355   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:57:38,411   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:57:38,454   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:57:38,564   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:57:38,637   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:57:38,665   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:57:38,701   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:57:38,737   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:57:38,786   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:57:38,822   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:720[ms]
+11:57:38,829   INFO Topography:428 - Set PedestrianIdCount to start value: 1
+11:57:39,198   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:312[ms]
+11:57:39,199   INFO Simulation:277 - preLoop finished.
+11:57:42,880   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/output/corner_scenario_2023-05-13_11-57-37.506/postvis.traj
+11:57:42,984   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/output/corner_scenario_2023-05-13_11-57-37.506/overlaps.csv
+11:57:42,985   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/output/corner_scenario_2023-05-13_11-57-37.506/overlapCount.txt
+11:57:42,986   INFO Simulation:251 - Finished writing all output files
+11:57:42,986   INFO Simulation:254 - Post-loop: before waitForTraci
+11:57:42,986   INFO Simulation:261 - Post-loop: finished.
+11:57:42,987   INFO ScenarioRun:207 - Simulation run finished.
+11:57:42,988   INFO ScenarioRun:265 - Simulation of scenario corner_scenario finished.
+11:57:44,795   INFO STDOUTERR:15 - Redirect StdOut and StdErr
+11:57:44,798   INFO ScenarioRunSubCommand:55 - Use output directory: /Users/diyun/Desktop/task3/output
+11:57:45,117   INFO JsonMigrationAssistant:83 - >> analyzing JSON tree of scenario <add_pedestrian_corner_scenario>
+11:57:45,118   INFO JsonMigrationAssistant:103 - Nothing to do current version and target version match
+11:57:46,095   INFO VadereConfig:66 - Use config file from path /Users/diyun/.config/vadere.conf
+11:57:46,458   INFO ScenarioCache:85 - Cache search location: /Users/diyun/Desktop/task3/__cache__
+11:57:46,477   INFO ScenarioRun:147 - Initializing scenario: add_pedestrian_corner_scenario...
+11:57:46,492   INFO ScenarioRun:128 - scenario context initialized.
+11:57:46,498   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario.poly was found.
+11:57:46,498   INFO ScenarioRun:229 - no mesh add_pedestrian_corner_scenario_background.poly was found.
+11:57:46,788   INFO PotentialFieldDistancesBruteForce:49 - solve floor field (PotentialFieldDistancesBruteForce)
+11:57:46,829   INFO PotentialFieldDistancesBruteForce:106 - Progress:  0% -> 0/160801 [points]
+11:57:47,000   INFO PotentialFieldDistancesBruteForce:106 - Progress: 10% -> 16081/160801 [points]
+11:57:47,063   INFO PotentialFieldDistancesBruteForce:106 - Progress: 20% -> 32161/160801 [points]
+11:57:47,122   INFO PotentialFieldDistancesBruteForce:106 - Progress: 30% -> 48241/160801 [points]
+11:57:47,225   INFO PotentialFieldDistancesBruteForce:106 - Progress: 40% -> 64321/160801 [points]
+11:57:47,286   INFO PotentialFieldDistancesBruteForce:106 - Progress: 50% -> 80401/160801 [points]
+11:57:47,314   INFO PotentialFieldDistancesBruteForce:106 - Progress: 60% -> 96481/160801 [points]
+11:57:47,348   INFO PotentialFieldDistancesBruteForce:106 - Progress: 70% -> 112561/160801 [points]
+11:57:47,377   INFO PotentialFieldDistancesBruteForce:106 - Progress: 80% -> 128641/160801 [points]
+11:57:47,413   INFO PotentialFieldDistancesBruteForce:106 - Progress: 90% -> 144721/160801 [points]
+11:57:47,445   INFO PotentialFieldDistancesBruteForce:96 - floor field initialization time:653[ms]
+11:57:47,449   INFO Topography:428 - Set PedestrianIdCount to start value: 6
+11:57:47,669   INFO EikonalSolverDefaultProvider:23 - floor field initialization time:172[ms]
+11:57:47,670   INFO Simulation:277 - preLoop finished.
+11:57:51,481   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/output/add_pedestrian_corner_scenario_2023-05-13_11-57-46.475/postvis.traj
+11:57:51,572   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/output/add_pedestrian_corner_scenario_2023-05-13_11-57-46.475/overlaps.csv
+11:57:51,573   INFO OutputFile:109 - Absolute file name/Users/diyun/Desktop/task3/output/add_pedestrian_corner_scenario_2023-05-13_11-57-46.475/overlapCount.txt
+11:57:51,575   INFO Simulation:251 - Finished writing all output files
+11:57:51,575   INFO Simulation:254 - Post-loop: before waitForTraci
+11:57:51,575   INFO Simulation:261 - Post-loop: finished.
+11:57:51,576   INFO ScenarioRun:207 - Simulation run finished.
+11:57:51,576   INFO ScenarioRun:265 - Simulation of scenario add_pedestrian_corner_scenario finished.
