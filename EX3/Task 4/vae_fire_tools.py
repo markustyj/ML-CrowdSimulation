@@ -10,6 +10,7 @@ Created on Sun May 28 13:39:32 2023
 import torch
 import numpy as np
 import matplotlib.pyplot as plt
+import csv
 
 
 def load_reshape_dataset():    
@@ -213,7 +214,6 @@ def plot_generated_sample(model, num_smaples, latent_dim):
     plt.show()
     
     
-
 def generate_data(model, latent_dim):
     """
     Function to generate a sample within the MI building.
@@ -267,6 +267,58 @@ def estimate_critical_number(model, latent_dim):
             num_people += 1
 
     return num_samples
+
+
+def genarate_ped_vadere(model, latent_dim):     
+    """
+    Function to plot the generated samples.
+ 
+    Args:
+        x_min, x_max, y_min, y_max: to define a part of green area in Scenario, where pedestrians can be located.                 
+        genarated_samples: a list to save all genarated samples.
+        PedestrianID: the ID of each generated sample.                        
+    
+    Returns:
+        the list with 100 genarated samples.
+        
+    """       
+    x_min, x_max = 0.9, 8.6
+    y_min, y_max = 2.7, 9.3   
+    genarated_samples = []
+    PedestrianID = 1
+    
+    while len(genarated_samples) < 100:       
+        generated_sample = generate_data(model, latent_dim)
+        x_pos = generated_sample[0,0][0,0]
+        y_pos = generated_sample[0,0][1,0]      
+        
+        if x_min <= x_pos <= x_max and y_min <= y_pos <= y_max:
+            genarated_samples.append({"PedestrianID": PedestrianID, "X": x_pos, "Y": y_pos})
+            PedestrianID += 1
+            
+    return genarated_samples
+
+
+def create_csv(genarated_samples):    
+    """
+    Function to create an empty CSV file, export data of all Pedestrians into the CSV file.
+ 
+    Args:
+        file_path: define the name and path of the new CSV file.                 
+        genarated_samples: a list to save the data of all genarated Pedestrians.
+        
+    """     
+    
+    file_path = "pedestrians.csv"
+
+    with open(file_path, "w", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=["PedestrianID", "X", "Y"])
+        writer.writeheader()
+        for person in genarated_samples:
+            writer.writerow(person)
+        
+    file.close()
+    
     
     
     
