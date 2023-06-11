@@ -177,12 +177,12 @@ def plot_3d_traj_compare_rho5(output1,output2):
     #Visualization of the first trajectory
     ax = plt.figure().add_subplot(projection='3d')
     ax.plot(output1.y[0], output1.y[1], output1.y[2], label='lorenz attractor [10,10,10]', color = "red", linewidth = 2)
-    ax.plot(output2.y[0], output2.y[1], output2.y[2], label='lorenz attractor [10+100,10+100,10]', color = "yellow", linewidth = 2)
+    ax.plot(output2.y[0], output2.y[1], output2.y[2], label='lorenz attractor [10+1e-8,10+1e-8,10]', color = "yellow", linewidth = 2)
     ax.legend()
     #Visualization of the second trajectory
     ax2 = plt.figure().add_subplot(projection='3d')
     ax2.plot(output1.y[0][80000:], output1.y[1][80000:], output1.y[2][80000:], label='lorenz attractor [10,10,10]', color = "red", linewidth = 0.3)
-    ax2.plot(output2.y[0][80000:], output2.y[1][80000:], output2.y[2][80000:], label='lorenz attractor [10+100,10+100,10]', color = "yellow", linewidth = 0.3)
+    ax2.plot(output2.y[0][80000:], output2.y[1][80000:], output2.y[2][80000:], label='lorenz attractor [10+1e-8,10+1e-8,10]', color = "yellow", linewidth = 0.3)
     ax2.legend()
     plt.show()    
 
